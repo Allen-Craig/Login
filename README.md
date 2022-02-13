@@ -1,2 +1,2 @@
 # Login
-Simple login page using JS, HTML, and CSS
+A simple login page using JS, HTML, and CSS
